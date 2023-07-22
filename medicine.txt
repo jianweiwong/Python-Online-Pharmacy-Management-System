@@ -1,0 +1,7 @@
+Paracetamol, 11/06/23, RM7, 10 caplets per pack, Blister packs
+Ibuprofen, 11/06/23, RM100, 20 tablets per pack, Blister packs
+Aspirin, 16/06/23, RM38, 30 capsules per pack, Blister packs
+Tamiflu, 21/06/23, RM50, 30 capsules per bottle, Prescription bottle
+Lotrazine, 06/12/23, RM90, 50 capsules per bottle, Prescription bottle
+Rosapen, 08/05/23, RM22, 15 caplets per pack, Blister packs
+Anpeson, 09/01/23, RM70, 15 capsule per bottle, Prescription bottle
